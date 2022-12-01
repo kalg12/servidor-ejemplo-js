@@ -1,0 +1,16 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "Creando un servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "micomando": "node kevin.js",
+    "unid": "node unid.js"
+  },
+  "author": "Kevin Luciano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
